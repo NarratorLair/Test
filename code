@@ -1,0 +1,6 @@
+echo Sprawdzanie procesów.
+top
+^Z
+echo Sprawdzanie katalogu głównego.
+ls -lA
+echo Sprawdzono.
